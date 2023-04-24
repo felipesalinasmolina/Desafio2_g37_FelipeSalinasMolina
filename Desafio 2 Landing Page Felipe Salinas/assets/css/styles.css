@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-image: center;
+    margin: auto;
+}
+.header{
+    background-image: url("../img/Titulo.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 1rem;
+    margin-bottom: 3rem;
+
+}
+
+.header h1{
+    font-family: "ubuntu";
+    font-size:  5rem;
+    color: yellow;
+    text-align:center;
+}
+h2,
+h3{
+    margin: 3rem;
+    font-family: "ubuntu";
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-size: 1.9rem;
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+p{
+    font-size: 1.8rem;
+    font-family: "ubuntu";
+    color: white;
+    text-align: center  ;
+}
+
+.products table{
+    margin: auto ;
+}
+
+.products thead{
+    color: white;
+    font-family: "ubuntu"; 
+    font-size: 2rem;
+    
+
+}
+ .products img{
+    height: 70%;
+    width: 60%;
+    background-color: beige;
+    border-radius: 3rem;
+ }
+
+ .footer{
+    background-color: yellowgreen;
+    color: yellow;
+    text-align: center;
+    
+ }
+
+ .footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+
+ }
+
+ .footer img{
+    width: 5 rem;
+    margin: 0,0,5rem;
+ }
